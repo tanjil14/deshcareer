@@ -49,7 +49,7 @@ const Navbar = () => {
                     Privacy Policy
                   </Link>
                   <Link
-                    to="/about"
+                    to="/about/us"
                     className="hover:text-[#dc3545] p-2.5 rounded-md text-base font-bold sans-serif transition ease-in duration-200"
                   >
                     About Us
@@ -126,7 +126,7 @@ const Navbar = () => {
               Privacy Policy
             </Link>
             <Link
-              to="/about"
+              to="/about/us"
               className="hover:text-[#dc3545] py-1 rounded-md text-base font-bold sans-serif transition ease-in duration-200 block"
             >
               About Us
